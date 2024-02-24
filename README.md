@@ -76,29 +76,31 @@ que tiene como objetivo facilitar la gestión y operación del negocio.
 ![screenshot/Login.png](screenshot/Login.png)
 3. Pantalla para recuperar la contraseña.
 ![screenshot/RecoveryPassword.png](screenshot/RecoveryPassword.png)
-4. Pantalla para ver la lista de productos.
+4. Ejemplo del correo de recuperación de contraseña.
+![screenshot/EmailExample.png](screenshot/EmailExample.png)
+5. Pantalla para ver la lista de productos.
 ![screenshot/RecoveryPassword.png](screenshot/Product.png)
-5. Pantalla para agregar productos.
+6. Pantalla para agregar productos.
 ![screenshot/ProductRegister.png](screenshot/ProductRegister.png)
-6. Pantalla para actualizar productos.
+7. Pantalla para actualizar productos.
 ![screenshot/ProductUpdate.png](screenshot/ProductUpdate.png)
-7. Pantalla para ver la lista de empleados.
+8. Pantalla para ver la lista de empleados.
 ![screenshot/Employee.png](screenshot/Employee.png)
-8. Pantalla para agregar empleados.
+9. Pantalla para agregar empleados.
 ![screenshot/EmployeeRegister.png](screenshot/EmployeeRegister.png)
-9. Pantalla para actualizar empleados.
+10. Pantalla para actualizar empleados.
 ![screenshot/EmployeeUpdate.png](screenshot/EmployeeUpdate.png)
-10. Pantalla para ver la lista de usuarios.
+11. Pantalla para ver la lista de usuarios.
 ![screenshot/User.png](screenshot/User.png)
-11. Pantalla para actualizar usuario.
+12. Pantalla para actualizar usuario.
 ![screenshot/UserUpdate.png](screenshot/UserUpdate.png)
-12. Pantalla para ver la lista de ventas.
+13. Pantalla para ver la lista de ventas.
 ![screenshot/Sale.png](screenshot/Sale.png)
-13. Pantalla en modo minimizado de la venta.
+14. Pantalla en modo minimizado de la venta.
 ![screenshot/PreviewReportSale.png](screenshot/PreviewReportSale.png)
-14. Pantalla en modo maximizado de la venta.
+15. Pantalla en modo maximizado de la venta.
 ![screenshot/ReportSale.png](screenshot/ReportSale.png)
-15. Pantalla de carrito de compras.
+16. Pantalla de carrito de compras.
 ![screenshot/ShoppingCart.png](screenshot/ShoppingCart.png)
-16. Pantalla de corte de caja.
+17. Pantalla de corte de caja.
 ![screenshot/BoxCut.png](screenshot/BoxCut.png)
