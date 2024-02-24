@@ -1,0 +1,27 @@
+
+m
+java:S1192‹"JDefine a constant instead of duplicating this literal "Pendiente" 6 times.(ìÇ½Ûùÿÿÿÿ8êª¶Å1
+d
+java:S1192W"GDefine a constant instead of duplicating this literal "[fill]" 3 times.(ôæúÑ8ëª¶Å1
+Ÿ
+java:S1186İ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë„Ü¢8ş–ª¶Å1
+Ÿ
+java:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×ô˜ª8ş–ª¶Å1
+w
+java:S1450?"ZRemove the "employeeDao" field and declare it as a local variable in the relevant methods.(Õõòº8—ª¶Å1
+{
+java:S1450;"YRemove the "roundPanel" field and declare it as a local variable in the relevant methods.(ß‘™İüÿÿÿÿ8—ª¶Å1
+{
+java:S1450="YRemove the "scrollPane" field and declare it as a local variable in the relevant methods.(õŸ›‚ÿÿÿÿÿ8—ª¶Å1
+J
+java:S1948?"-Make "employeeDao" transient or serializable.(Õõòº8ƒ—ª¶Å1
+S
+java:S1948A"1Make "cashRegisterDao" transient or serializable.(ì’Ï¡ÿÿÿÿÿ8ƒ—ª¶Å1
+_
+java:S1854Ş"<Remove this useless assignment to local variable "columna5".(Œû™İûÿÿÿÿ8Ÿ—ª¶Å1
+P
+java:S1481Ş"-Remove this unused "columna5" local variable.(Œû™İûÿÿÿÿ8¤—ª¶Å1
+p
+java:S1128"NRemove this unused import 'com.realssoft.dulcefrio.api.model.dto.EmployeeDTO'.(éª–íùÿÿÿÿ8Ä—ª¶Å1
+L
+java:S1068?"/Remove this unused "employeeDao" private field.(Õõòº8Å—ª¶Å1

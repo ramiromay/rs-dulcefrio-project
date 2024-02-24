@@ -1,0 +1,41 @@
+
+`
+java:S2184ƒ"BCast one of the operands of this addition operation to a "double".(å›Üƒ8ã“Õ ¾1
+h
+java:S2184„"ECast one of the operands of this subtraction operation to a "double".(Àœ·ÿÿÿÿÿ8î“Õ ¾1
+c
+java:S2184“"ECast one of the operands of this subtraction operation to a "double".(®¨„™8ï“Õ ¾1
+h
+java:S2184”"ECast one of the operands of this subtraction operation to a "double".(Áºëùüÿÿÿÿ8ñ“Õ ¾1
+e
+java:S2184”"BCast one of the operands of this addition operation to a "double".(Áºëùüÿÿÿÿ8ó“Õ ¾1
+>
+java:S1170"!Make this final field static too.(³à¼ü8ø”Õ ¾1
+>
+java:S1170 "!Make this final field static too.(î¿–î8ù”Õ ¾1
+C
+java:S1170!"!Make this final field static too.(³¢Æ¨ıÿÿÿÿ8û”Õ ¾1
+C
+java:S1170""!Make this final field static too.(¿¼Ášıÿÿÿÿ8ı”Õ ¾1
+>
+java:S1170#"!Make this final field static too.(¿ ™Ş8ÿ”Õ ¾1
+M
+java:S1948"+Make "menuEvent" transient or serializable.(ìÅ¸ñÿÿÿÿÿ8‚•Õ ¾1
+t
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨Âëíÿÿÿÿÿ8 •Õ ¾1
+i
+java:S6201^"GReplace this instanceof check and cast with 'instanceof JButton button'(†ä÷şÿÿÿÿ8§•Õ ¾1
+a
+java:S3252c"?Use static access with "javax.swing.SwingConstants" for "LEFT".(¦¶µõùÿÿÿÿ8«•Õ ¾1
+]
+java:S3252d"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(Õºï¨8¬•Õ ¾1
+i
+java:S6201j"GReplace this instanceof check and cast with 'instanceof JButton button'(†ä÷şÿÿÿÿ8­•Õ ¾1
+9
+java:S1116k"Remove this empty statement.(ƒç¹Ã8°•Õ ¾1
+c
+java:S3252m"AUse static access with "javax.swing.SwingConstants" for "CENTER".(ØŞÉÙÿÿÿÿÿ8²•Õ ¾1
+¤
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã²¾ûüÿÿÿÿ8¿•Õ ¾1
+¤
+java:S1186Ÿ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÃ„Åÿÿÿÿÿ8¿•Õ ¾1

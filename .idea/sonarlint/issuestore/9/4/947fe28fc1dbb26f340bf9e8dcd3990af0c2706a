@@ -1,0 +1,45 @@
+
+h	java:S112í"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒ¥ËÃ1
+h	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒ¥ËÃ1
+{
+java:S1450H"YRemove the "scrollPane" field and declare it as a local variable in the relevant methods.(õŸ›‚ÿÿÿÿÿ8µ¥ËÃ1
+D
+java:S1948V"(Make "action" transient or serializable.(•ı”e8¶¥ËÃ1
+P
+java:S1948X".Make "shoppingCart" transient or serializable.(³•şüÿÿÿÿ8¶¥ËÃ1
+G
+java:S1948Y"+Make "ticketDao" transient or serializable.(×ïÍ?8¶¥ËÃ1
+K
+java:S1948Z")Make "saleDao" transient or serializable.(•®£âüÿÿÿÿ8¶¥ËÃ1
+N
+java:S1948["1Make "shoppingCartDao" transient or serializable.(şÙŸ8¶¥ËÃ1
+y
+java:S2177u"WRename this method; there is a "private" method in the parent class with the same name.( öîùÿÿÿÿ8¹¥ËÃ1
+]
+java:S3252†"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(ûËó8¾¥ËÃ1
+^
+java:S3252“"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(—ƒğÙ8¿¥ËÃ1
+?
+java:S1116š"Remove this empty statement.(Á¤İºüÿÿÿÿ8¿¥ËÃ1
+O
+java:S1602›",Remove useless curly braces around statement(¿ë´°ÿÿÿÿÿ8¿¥ËÃ1
+c
+java:S3252²"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(³”óäşÿÿÿÿ8Á¥ËÃ1
+:
+java:S1116ª"Remove this empty statement.(’üÎå8Ç¥ËÃ1
+k
+java:S5361¹"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ÌƒÆøùÿÿÿÿ8È¥ËÃ1
+u
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(üÇŞØùÿÿÿÿ8É¥ËÃ1
+O
+java:S1602³",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ8Ğ¥ËÃ1
+\
+java:S1117Á"9Rename "total" which hides the field declared at line 93.(ÓŸı³ûÿÿÿÿ8Ñ¥ËÃ1
+U
+java:S1117Ã"7Rename "pay" which hides the field declared at line 94.(ÿÊà’8Ñ¥ËÃ1
+?
+java:S1116Ï"Remove this empty statement.(É¥¯Åúÿÿÿÿ8Ó¥ËÃ1
+|
+java:S1128"_Remove this unused import 'com.realssoft.dulcefrio.api.persistence.entity.CashRegisterOpening'.(ç°Î€8Ú¥ËÃ1
+t
+java:S1128"RRemove this unused import 'com.realssoft.dulcefrio.api.persistence.entity.Ticket'.(„Úæøÿÿÿÿ8Ú¥ËÃ1

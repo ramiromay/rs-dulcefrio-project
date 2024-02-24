@@ -1,0 +1,24 @@
+
+h	java:S112ó"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8··˜Ã1
+l
+java:S1192‚"NDefine a constant instead of duplicating this literal "Administrador" 3 times.(¢‹ŞÔ8¼·˜Ã1
+w
+java:S1192¡"YDefine a constant instead of duplicating this literal "ActualizaciÃ³n Empleado" 12 times.(íÎí8ã‚ŸÃ1
+s
+java:S1450D"WRemove the "calendar" field and declare it as a local variable in the relevant methods.(½™ÿf8à·˜Ã1
+~
+java:S1450a"\Remove the "groupActivate" field and declare it as a local variable in the relevant methods.(†ÇŠ¥úÿÿÿÿ8à·˜Ã1
+y
+java:S1450["WRemove the "groupRol" field and declare it as a local variable in the relevant methods.(ó¿„âüÿÿÿÿ8á·˜Ã1
+J
+java:S1948e"-Make "employeeDao" transient or serializable.(Ø½¤÷8â·˜Ã1
+K
+java:S1948f")Make "userDao" transient or serializable.(ıµ‚æşÿÿÿÿ8â·˜Ã1
+D
+java:S1948i"(Make "action" transient or serializable.(•ı”e8â·˜Ã1
+u
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Øú·¶şÿÿÿÿ8€¸˜Ã1
+|
+java:S2142ò"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8†¸˜Ã1
+ê
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 216 to 64, Complexity from 20 to 14, Nesting Level from 3 to 2, Number of Variables from 15 to 6.(Øú·¶şÿÿÿÿ8ˆ¸˜Ã1

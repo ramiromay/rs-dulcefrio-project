@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="sourceModelValue" value="Default" />
+    <option name="targetDbValue" value="f6b222f3-b790-4368-9642-f3f8573f4026" />
+    <option name="reverseEngineeringLastDbConnectionId" value="f6b222f3-b790-4368-9642-f3f8573f4026__DulceFrio_public" />
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/realssoft/dulcefrio/api/persistence" />
+  </component>
+</project>

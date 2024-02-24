@@ -1,0 +1,13 @@
+
+e
+java:S1192<"HDefine a constant instead of duplicating this literal "gapy 10" 4 times.(úÜşı8º¿ÖãÃ1
+L
+java:S1948"0Make "accountDaoImpl" transient or serializable.(†ı¹8şßãÃ1
+I
+java:S1602]",Remove useless curly braces around statement(“’öî8Ş¿ÖãÃ1
+i
+java:S3252s"LUse static access with "javax.swing.WindowConstants" for "DISPOSE_ON_CLOSE".(¬ëëÆ8à¿ÖãÃ1
+Q
+java:S1128"4Remove this unused import 'javax.swing.JOptionPane'.(÷‰Îé8´şßãÃ1
+M
+java:S1128"+Remove this unused import 'java.awt.Color'.(ùÈãÈøÿÿÿÿ8µşßãÃ1

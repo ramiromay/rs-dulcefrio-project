@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.20.6.final using JasperReports Library version 6.20.6-5c96b6aa8a39ac1dc6b6bea4b81168e16dd39231  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="SalesReport" pageWidth="350" pageHeight="600" whenNoDataType="NoDataSection" columnWidth="310" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" isIgnorePagination="true" uuid="133cd2cf-3ccf-49c8-ab42-2f93cec28226">
+	<property name="com.jaspersoft.studio.unit." value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.pageHeight" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.pageWidth" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.topMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.bottomMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.leftMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.rightMargin" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.columnWidth" value="pixel"/>
+	<property name="com.jaspersoft.studio.unit.columnSpacing" value="pixel"/>
+	<style name="Table_TH" mode="Opaque" backcolor="#F0F8FF">
+		<box>
+			<pen lineWidth="0.5" lineColor="#000000"/>
+			<topPen lineWidth="0.5" lineColor="#000000"/>
+			<leftPen lineWidth="0.5" lineColor="#000000"/>
+			<bottomPen lineWidth="0.5" lineColor="#000000"/>
+			<rightPen lineWidth="0.5" lineColor="#000000"/>
+		</box>
+	</style>
+	<style name="Table_CH" mode="Opaque" backcolor="#BFE1FF">
+		<box>
+			<pen lineWidth="0.5" lineColor="#000000"/>
+			<topPen lineWidth="0.5" lineColor="#000000"/>
+			<leftPen lineWidth="0.5" lineColor="#000000"/>
+			<bottomPen lineWidth="0.5" lineColor="#000000"/>
+			<rightPen lineWidth="0.5" lineColor="#000000"/>
+		</box>
+	</style>
+	<style name="Table_TD" mode="Opaque" backcolor="#FFFFFF">
+		<box>
+			<pen lineWidth="0.5" lineColor="#000000"/>
+			<topPen lineWidth="0.5" lineColor="#000000"/>
+			<leftPen lineWidth="0.5" lineColor="#000000"/>
+			<bottomPen lineWidth="0.5" lineColor="#000000"/>
+			<rightPen lineWidth="0.5" lineColor="#000000"/>
+		</box>
+	</style>
+	<style name="Table 1_TH" mode="Opaque" backcolor="#FFFFFF">
+		<box>
+			<topPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<bottomPen lineWidth="0.5" lineColor="#FFFFFF"/>
+		</box>
+	</style>
+	<style name="Table 1_CH" mode="Opaque" backcolor="#FFBFBF">
+		<box>
+			<topPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<bottomPen lineWidth="0.5" lineColor="#FFFFFF"/>
+		</box>
+	</style>
+	<style name="Table 1_TD" mode="Opaque" backcolor="#FFFFFF">
+		<box>
+			<topPen lineWidth="0.5" lineColor="#FFFFFF"/>
+			<bottomPen lineWidth="0.5" lineColor="#FFFFFF"/>
+		</box>
+	</style>
+	<subDataset name="dsReportSales" uuid="8891fbbb-b059-499b-93a9-38bcda57565d">
+		<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+		<parameter name="fullName" class="java.lang.String"/>
+		<parameter name="symbol" class="java.lang.String"/>
+		<parameter name="price" class="java.lang.String"/>
+		<queryString>
+			<![CDATA[]]>
+		</queryString>
+		<field name="fullName" class="java.lang.String"/>
+		<field name="symbol" class="java.lang.String"/>
+		<field name="price" class="java.lang.String"/>
+	</subDataset>
+	<parameter name="ds" class="net.sf.jasperreports.engine.data.JRBeanArrayDataSource"/>
+	<parameter name="logoCompany" class="java.awt.Image"/>
+	<parameter name="money" class="java.lang.String"/>
+	<parameter name="numberProducts" class="java.lang.String"/>
+	<parameter name="id" class="java.lang.String"/>
+	<parameter name="logoQr" class="java.awt.Image"/>
+	<parameter name="currentDate" class="java.lang.String"/>
+	<parameter name="currentTime" class="java.lang.String"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="70" splitType="Stretch">
+			<image onErrorType="Icon">
+				<reportElement x="30" y="10" width="50" height="50" uuid="903c2ae9-5bb2-4df1-b41d-82cb54fb1d30"/>
+				<imageExpression><![CDATA[$P{logoCompany}]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement x="80" y="20" width="180" height="30" uuid="2385ff7f-26d6-4215-9770-d170a6503fc9"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Segoe UI" size="20" isBold="true"/>
+				</textElement>
+				<text><![CDATA[La Michoacana]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="104" splitType="Stretch">
+			<staticText>
+				<reportElement x="10" y="0" width="290" height="89" uuid="fe3d1199-9603-466a-a40c-144bfc07d53b"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Consolas" size="12"/>
+				</textElement>
+				<text><![CDATA[LA MICHOACANA MÉRIDA
+C. 46, VILLA MAGNA DEL SUR, 97285 MÉRIDA,
+YUCATÁN
+QUEJAS Y SUGERENCIAS 800  000 0022
+REGIMEN FISCAL - 601
+GENERAL DE LEY PERSONAS MORALES
+]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<detail>
+		<band height="30" splitType="Stretch">
+			<property name="com.jaspersoft.studio.unit.height" value="px"/>
+			<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.FreeLayout"/>
+			<componentElement>
+				<reportElement stretchType="ElementGroupHeight" x="10" y="0" width="290" height="30" forecolor="#030303" uuid="483b951a-d172-4494-a8eb-9cd2f8e5710c">
+					<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.VerticalRowLayout"/>
+					<property name="com.jaspersoft.studio.table.style.table_header" value="Table 1_TH"/>
+					<property name="com.jaspersoft.studio.table.style.column_header" value="Table 1_CH"/>
+					<property name="com.jaspersoft.studio.table.style.detail" value="Table 1_TD"/>
+				</reportElement>
+				<jr:table xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<datasetRun subDataset="dsReportSales" uuid="05f464ef-dbab-4aff-b767-f8a8d296f4b5">
+						<dataSourceExpression><![CDATA[$P{ds}]]></dataSourceExpression>
+					</datasetRun>
+					<jr:column width="190" uuid="ac3c258e-cddd-4d1f-8d4d-fd4a85d76b83">
+						<property name="com.jaspersoft.studio.components.table.model.column.name" value="Column1"/>
+						<jr:detailCell style="Table 1_TD" height="30">
+							<textField>
+								<reportElement x="0" y="0" width="190" height="30" uuid="6eace394-d3b2-41d3-b567-f3a00c13f7ce"/>
+								<textElement verticalAlignment="Middle">
+									<font fontName="Consolas" size="12"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{fullName}]]></textFieldExpression>
+							</textField>
+						</jr:detailCell>
+					</jr:column>
+					<jr:column width="30" uuid="0de7afeb-70ac-4abf-8b1c-9f111c7a6da2">
+						<property name="com.jaspersoft.studio.components.table.model.column.name" value="Column2"/>
+						<jr:detailCell style="Table 1_TD" height="30">
+							<textField>
+								<reportElement x="0" y="0" width="30" height="30" uuid="57f6596a-bbb8-4787-b155-22d5e81f43ae"/>
+								<textElement textAlignment="Center" verticalAlignment="Middle">
+									<font fontName="Consolas" size="12"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{symbol}]]></textFieldExpression>
+							</textField>
+						</jr:detailCell>
+					</jr:column>
+					<jr:column width="69" uuid="81dfcb22-cd48-4218-9192-8b63ca5c1cfe">
+						<property name="com.jaspersoft.studio.components.table.model.column.name" value="Column3"/>
+						<jr:detailCell style="Table 1_TD" height="30">
+							<textField textAdjust="StretchHeight">
+								<reportElement x="0" y="0" width="69" height="30" uuid="b0133b66-abf3-4b85-be07-5e3f1ae351a2"/>
+								<textElement textAlignment="Right" verticalAlignment="Middle">
+									<font fontName="Consolas" size="12"/>
+								</textElement>
+								<textFieldExpression><![CDATA[$F{price}]]></textFieldExpression>
+							</textField>
+						</jr:detailCell>
+					</jr:column>
+				</jr:table>
+			</componentElement>
+		</band>
+	</detail>
+	<lastPageFooter>
+		<band height="316">
+			<staticText>
+				<reportElement x="10" y="210" width="289" height="70" uuid="c17f355f-e7c6-4cda-8d6c-dc53f1eb0daa"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Consolas" size="12"/>
+				</textElement>
+				<text><![CDATA[SMARTGAS MAS COMBUSTIBLE ¡LA APP QUE
+RECOMPENSA TUS COMPRAS! OBTEN 2% DE
+BONIFICACIÓN AL PAGAR TU SUPER
+¡DESCARGA LA APP!]]></text>
+			</staticText>
+			<textField textAdjust="StretchHeight">
+				<reportElement x="50" y="280" width="100" height="30" forecolor="#030303" uuid="6cf1d54a-8dde-4e01-9c60-a1cce8212b69"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Consolas" size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{currentDate}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="150" y="280" width="110" height="30" uuid="e4dc2133-cbd1-432d-a292-e86e382251a4"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Consolas" size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{currentTime}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="10" y="170" width="289" height="30" uuid="e7b5e71a-2015-4782-911f-a29b2a8fe041"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Consolas" size="12"/>
+				</textElement>
+				<text><![CDATA[¿COMO TE ATENDIMOS?
+WWW.HELADOSLAMICHOACANA.COM]]></text>
+			</staticText>
+			<image scaleImage="FillFrame" onErrorType="Blank">
+				<reportElement x="10" y="70" width="289" height="90" uuid="fcde8663-1ae8-4919-923d-289eb307b145"/>
+				<imageExpression><![CDATA[$P{logoQr}]]></imageExpression>
+			</image>
+			<textField textAdjust="StretchHeight">
+				<reportElement x="10" y="10" width="289" height="30" forecolor="#030303" uuid="0ecb4897-b306-4b0e-85cf-9c453ff59bd3"/>
+				<textElement textAlignment="Left" verticalAlignment="Middle">
+					<font fontName="Consolas" size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{money}]]></textFieldExpression>
+			</textField>
+			<textField textAdjust="StretchHeight">
+				<reportElement x="10" y="50" width="289" height="20" forecolor="#030303" uuid="127510c3-1a31-4eaa-b176-93f4df0917c6"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Consolas" size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$P{numberProducts}]]></textFieldExpression>
+			</textField>
+		</band>
+	</lastPageFooter>
+</jasperReport>

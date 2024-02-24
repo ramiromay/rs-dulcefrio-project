@@ -1,0 +1,29 @@
+
+W
+java:S1161?":Add the "@Override" annotation above this method signature(ú’Ó§8äÄìÁ1
+L
+java:S1128"/Remove this unused import 'javax.swing.JPanel'.(ò‚•8¢úŸ–Ã1
+^
+java:S1128"<Remove this unused import 'javax.swing.event.DocumentEvent'.(Î‚øòüÿÿÿÿ8¢úŸ–Ã1
+a
+java:S1128"?Remove this unused import 'javax.swing.event.DocumentListener'.(‹ëÊ•ÿÿÿÿÿ8¢úŸ–Ã1
+[
+java:S1128">Remove this unused import 'javax.swing.text.AbstractDocument'.(–õ¯8¢úŸ–Ã1
+W
+java:S1128":Remove this unused import 'javax.swing.text.AttributeSet'.(§¸ŠÚ8¢úŸ–Ã1
+d
+java:S1128"BRemove this unused import 'javax.swing.text.BadLocationException'.(îäÍûÿÿÿÿ8¢úŸ–Ã1
+`
+java:S1128">Remove this unused import 'javax.swing.text.DefaultFormatter'.(ú×ˆìúÿÿÿÿ8¢úŸ–Ã1
+b
+java:S1128"ERemove this unused import 'javax.swing.text.DefaultFormatterFactory'.(ºÂ÷º8¢úŸ–Ã1
+Y
+java:S1128"<Remove this unused import 'javax.swing.text.DocumentFilter'.(Ş§ÿç8£úŸ–Ã1
+_
+java:S1128"=Remove this unused import 'javax.swing.text.NumberFormatter'.(ÈĞ¿¹şÿÿÿÿ8£úŸ–Ã1
+P
+java:S1128"3Remove this unused import 'java.text.NumberFormat'.(¿¸»8£úŸ–Ã1
+R
+java:S1128"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8£úŸ–Ã1
+Q
+java:S1128"4Remove this unused import 'java.text.ParsePosition'.(¸à«¤8£úŸ–Ã1

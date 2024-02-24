@@ -1,0 +1,20 @@
+
+h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Œ˜  Ã1
+|
+java:S1192b"ZDefine a constant instead of duplicating this literal "Seleccione una categorÃ­a" 3 times.(»úĞ¥øÿÿÿÿ8˜  Ã1
+v
+java:S1192¬"XDefine a constant instead of duplicating this literal "ActualizaciÃ³n Producto" 5 times.(Àé°Œ8†¾  Ã1
+~
+java:S1450L"\Remove the "groupActivate" field and declare it as a local variable in the relevant methods.(†ÇŠ¥úÿÿÿÿ8³˜  Ã1
+I
+java:S1948O",Make "productDao" transient or serializable.(º´Ñ8³˜  Ã1
+N
+java:S1948P",Make "categories" transient or serializable.(£ı“Ûúÿÿÿÿ8³˜  Ã1
+D
+java:S1948S"(Make "action" transient or serializable.(•ı”e8³˜  Ã1
+p
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(®æ¶Ş8»˜  Ã1
+|
+java:S2142€"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ğ˜  Ã1
+e
+java:S1128"CRemove this unused import 'com.realssoft.dulcefrio.ui.rs.StringRS'.(ë‰öğÿÿÿÿÿ8Êÿ  Ã1

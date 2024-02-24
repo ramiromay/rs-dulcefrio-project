@@ -1,0 +1,26 @@
+
+x
+java:S1450!"VRemove the "lbTitle" field and declare it as a local variable in the relevant methods.(ÔÎ‰äüÿÿÿÿ8ˆ¯Á¨Â1
+{
+java:S1450"YRemove the "scrollPane" field and declare it as a local variable in the relevant methods.(õŸ›‚ÿÿÿÿÿ8§‚Á¨Â1
+D
+java:S1948)"(Make "action" transient or serializable.(•ı”e8¨‚Á¨Â1
+P
+java:S1948+".Make "shoppingCart" transient or serializable.(³•şüÿÿÿÿ8¨‚Á¨Â1
+G
+java:S1948,"+Make "ticketDao" transient or serializable.(×ïÍ?8¨‚Á¨Â1
+K
+java:S1948-")Make "saleDao" transient or serializable.(•®£âüÿÿÿÿ8¨‚Á¨Â1
+N
+java:S1948."1Make "shoppingCartDao" transient or serializable.(şÙŸ8©‚Á¨Â1
+y
+java:S2177="WRename this method; there is a "private" method in the parent class with the same name.( öîùÿÿÿÿ8®‚Á¨Â1
+]
+java:S3252S"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(—ƒğÙ8º‚Á¨Â1
+Y	java:S125"<This block of commented-out lines of code should be removed.(²­ÜÍ8Ä‚Á¨Â1
+I
+java:S1068,"-Remove this unused "ticketDao" private field.(×ïÍ?8Ç‚Á¨Â1
+M
+java:S1068-"+Remove this unused "saleDao" private field.(•®£âüÿÿÿÿ8É‚Á¨Â1
+P
+java:S1068."3Remove this unused "shoppingCartDao" private field.(şÙŸ8Ë‚Á¨Â1

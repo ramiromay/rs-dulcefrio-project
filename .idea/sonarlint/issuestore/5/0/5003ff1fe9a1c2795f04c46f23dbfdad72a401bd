@@ -1,0 +1,53 @@
+
+h	java:S112ß"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8˜‰± Ã1
+h	java:S112ú"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8™‰± Ã1
+d
+java:S1192z"GDefine a constant instead of duplicating this literal "[fill]" 3 times.(ôæúÑ8š‰± Ã1
+Ÿ
+java:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ë„Ü¢8½‰± Ã1
+Ÿ
+java:S1186Ü"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(×ô˜ª8½‰± Ã1
+{
+java:S1450^"YRemove the "roundPanel" field and declare it as a local variable in the relevant methods.(ß‘™İüÿÿÿÿ8¾‰± Ã1
+{
+java:S1450`"YRemove the "scrollPane" field and declare it as a local variable in the relevant methods.(õŸ›‚ÿÿÿÿÿ8¿‰± Ã1
+L
+java:S1948b"*Make "products" transient or serializable.(™Ã¬ƒùÿÿÿÿ8¿‰± Ã1
+G
+java:S1948c"+Make "ticketDao" transient or serializable.(×ïÍ?8¿‰± Ã1
+K
+java:S1948d")Make "saleDao" transient or serializable.(•®£âüÿÿÿÿ8¿‰± Ã1
+O
+java:S1602®",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ8É‰± Ã1
+O
+java:S1602³",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ8É‰± Ã1
+O
+java:S1602¤",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ8Ğ‰± Ã1
+?
+java:S1116Á"Remove this empty statement.(É¥¯Åúÿÿÿÿ8Ó‰± Ã1
+p
+java:S1128"NRemove this unused import 'com.realssoft.dulcefrio.api.model.dto.CategoryDTO'.(’¼€¡úÿÿÿÿ8ß‰± Ã1
+€
+java:S1128"^Remove this unused import 'com.realssoft.dulcefrio.api.persistence.dao.impl.CashRegisterImpl'.(Ößòùÿÿÿÿ8ß‰± Ã1
+c
+java:S1128"FRemove this unused import 'com.realssoft.dulcefrio.ui.utils.SVGUtils'.(İ«8ß‰± Ã1
+O
+java:S1128'"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû8ß‰± Ã1
+J
+java:S1128*"-Remove this unused import 'javax.swing.Icon'.(ïÂ¡À8ß‰± Ã1
+Q
+java:S1128-"/Remove this unused import 'javax.swing.JFrame'.(ßŒŸûùÿÿÿÿ8ß‰± Ã1
+O
+java:S1128B"-Remove this unused import 'java.awt.Toolkit'.(Õºşÿÿÿÿ8ß‰± Ã1
+[
+java:S1128C"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ8ß‰± Ã1
+[
+java:S1128D"9Remove this unused import 'java.io.ByteArrayInputStream'.(Ëôæ±ûÿÿÿÿ8ß‰± Ã1
+V
+java:S1128E":Remove this unused import 'java.io.ByteArrayOutputStream'.(Î‡È8ß‰± Ã1
+O
+java:S1128L"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ß‰± Ã1
+T
+java:S1128M"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ß‰± Ã1
+Z
+java:S1128S"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ß‰± Ã1

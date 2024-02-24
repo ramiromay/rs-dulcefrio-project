@@ -1,0 +1,17 @@
+
+k
+java:S11927"NDefine a constant instead of duplicating this literal "focusWidth:0;" 3 times.(œ¶¹ä8Ø¿İ´¾1
+l
+java:S11928"ODefine a constant instead of duplicating this literal "borderWidth:0;" 3 times.(‹•ë®8Ú¿İ´¾1
+e
+java:S1192-"IDefine a constant instead of duplicating this literal "arc:999;" 4 times.(¬…28Ú¿İ´¾1
+I
+java:S1602:",Remove useless curly braces around statement(£„ş8›Àİ´¾1
+N
+java:S1602>",Remove useless curly braces around statement(öÀ‚Âøÿÿÿÿ8Àİ´¾1
+I
+java:S1602A",Remove useless curly braces around statement(ìÈˆ8 Àİ´¾1
+¤
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã²¾ûüÿÿÿÿ8®Àİ´¾1
+¤
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÃ„Åÿÿÿÿÿ8¯Àİ´¾1

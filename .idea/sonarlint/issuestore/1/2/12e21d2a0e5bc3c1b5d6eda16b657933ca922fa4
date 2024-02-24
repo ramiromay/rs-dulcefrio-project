@@ -1,0 +1,31 @@
+
+C
+java:S11704"!Make this final field static too.(Õ†‹üıÿÿÿÿ8ßİ¢Ã1
+C
+java:S11705"!Make this final field static too.(¨üë…øÿÿÿÿ8ßİ¢Ã1
+=
+java:S11706"!Make this final field static too.(“—:8ßİ¢Ã1
+=
+java:S11707"!Make this final field static too.(ÉúœQ8ßİ¢Ã1
+C
+java:S11708"!Make this final field static too.(ƒ¥¨­úÿÿÿÿ8ßİ¢Ã1
+C
+java:S11709"!Make this final field static too.(±å¬ûÿÿÿÿ8ßİ¢Ã1
+C
+java:S1170:"!Make this final field static too.( ¹ª­üÿÿÿÿ8ßİ¢Ã1
+T
+java:S2696‡"6Make the enclosing method "static" or remove this set.(âØá8šßİ¢Ã1
+]
+java:S3252"?Use static access with "javax.swing.SwingConstants" for "LEFT".(úª¡¿8›ßİ¢Ã1
+^
+java:S3252"@Use static access with "javax.swing.SwingConstants" for "RIGHT".(úª¡¿8›ßİ¢Ã1
+d
+java:S3252 "AUse static access with "javax.swing.SwingConstants" for "CENTER".(®²İÒıÿÿÿÿ8œßİ¢Ã1
+m
+java:S6201£"JReplace this instanceof check and cast with 'instanceof MenuItem menuitem'(ÚÈüÿÿÿÿ8œßİ¢Ã1
+¤
+java:S1186Ñ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã²¾ûüÿÿÿÿ8ßİ¢Ã1
+¤
+java:S1186Õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÃ„Åÿÿÿÿÿ8ßİ¢Ã1
+T
+java:S1128"2Remove this unused import 'javax.swing.UIManager'.(ó·Âûÿÿÿÿ8»øİ¢Ã1

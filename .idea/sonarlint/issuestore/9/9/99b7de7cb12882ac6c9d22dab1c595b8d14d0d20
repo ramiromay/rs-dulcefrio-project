@@ -1,0 +1,15 @@
+
+U
+java:S2387"3"background" is the name of a field in "Component".(€·Ö‚şÿÿÿÿ8°…ä©Á1
+P
+java:S1948"3Make "mouseClickedEvent" transient or serializable.(ÿ‰˜»8°…ä©Á1
+^
+java:S32524"AUse static access with "javax.swing.SwingConstants" for "CENTER".(€¹â¡8µ…ä©Á1
+c
+java:S32525"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Šç™şÿÿÿÿ8µ…ä©Á1
+^
+java:S32529"BUse static access with "javax.swing.SwingConstants" for "LEADING".(Äñ‘Q8À…ä©Á1
+^
+java:S3252:"AUse static access with "javax.swing.SwingConstants" for "CENTER".(Ä”¥8À…ä©Á1
+R
+java:S1068"5Remove this unused "mouseClickedEvent" private field.(ÿ‰˜»8Ç…ä©Á1

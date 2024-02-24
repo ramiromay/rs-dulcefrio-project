@@ -1,0 +1,14 @@
+
+_
+java:S6208œ"CMerge the previous cases into this one using comma-separated label.(—— ñıÿÿÿÿ
+`
+java:S2583ş"DChange this condition so that it does not always evaluate to "false"(†°ûğÿÿÿÿÿ
+=	java:S131‚""Add a default case to this switch.(†‡úùşÿÿÿÿ
+`
+java:S6201ä"JReplace this instanceof check and cast with 'instanceof Runnable runnable'(—øÂO
+f
+java:S6201æ"JReplace this instanceof check and cast with 'instanceof Consumer consumer'(¾Øí üÿÿÿÿ
+
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã²¾ûüÿÿÿÿ
+
+java:S1186š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÃ„Åÿÿÿÿÿ

@@ -1,0 +1,19 @@
+
+L
+java:S3740$"/Provide the parametrized type for this generic.(Ÿ…Ê•8öóšÃ1
+F
+java:S1948!"*Make "animator" transient or serializable.(àƒä8‚óšÃ1
+H
+java:S1948""&Make "date" transient or serializable.(ÓÛÍşşÿÿÿÿ8‚óšÃ1
+V
+java:S1948$"9Make "calendarEventCellRender" transient or serializable.(Ÿ…Ê•8‚óšÃ1
+o
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŠµÊÎ8‘‚óšÃ1
+o
+java:S1871l"MThis branch's code block is the same as the block for the branch on line 102.(ÙìÔ™ıÿÿÿÿ8–‚óšÃ1
+O
+java:S1602¿",Remove useless curly braces around statement(âº“ÿÿÿÿÿ8Ÿ‚óšÃ1
+¤
+java:S1186‘"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã²¾ûüÿÿÿÿ8¦‚óšÃ1
+¤
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÃ„Åÿÿÿÿÿ8¦‚óšÃ1

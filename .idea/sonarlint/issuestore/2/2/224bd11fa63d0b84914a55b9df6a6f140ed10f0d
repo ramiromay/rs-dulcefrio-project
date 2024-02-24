@@ -1,0 +1,103 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ŞÙÅğÁ1
+t	java:S127="XRefactor the code in order to not assign to this loop counter from within the loop body.(Æˆæò8ÑàÓ¡Â1
+z	java:S127€"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸†¯…ıÿÿÿÿ8ÑàÓ¡Â1
+z	java:S127ˆ"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸†¯…ıÿÿÿÿ8ÑàÓ¡Â1
+z	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸†¯…ıÿÿÿÿ8ÑàÓ¡Â1
+z	java:S127˜"XRefactor the code in order to not assign to this loop counter from within the loop body.(¸†¯…ıÿÿÿÿ8ÑàÓ¡Â1
+z	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(¸†¯…ıÿÿÿÿ8ÑàÓ¡Â1
+M
+java:S1066Ó"/Merge this if statement with the enclosing one.(’¯ÛÉ8ÓàÓ¡Â1
+>
+java:S1643L"Use a StringBuilder instead.(ç³ö»ûÿÿÿÿ8ÕàÓ¡Â1
+>
+java:S1643O"Use a StringBuilder instead.(°Í¿ˆùÿÿÿÿ8ÕàÓ¡Â1
+9
+java:S1643T"Use a StringBuilder instead.(ôşï÷8ÕàÓ¡Â1
+>
+java:S1643X"Use a StringBuilder instead.(ÆæÀ§øÿÿÿÿ8ÕàÓ¡Â1
+9
+java:S1643\"Use a StringBuilder instead.(¢ù«Æ8ÕàÓ¡Â1
+9
+java:S1643`"Use a StringBuilder instead.(¹¾±¸8ÕàÓ¡Â1
+>
+java:S1643d"Use a StringBuilder instead.(°¤’¶şÿÿÿÿ8ÕàÓ¡Â1
+>
+java:S1643h"Use a StringBuilder instead.(çÛÔûÿÿÿÿ8ÕàÓ¡Â1
+8
+java:S1643l"Use a StringBuilder instead.(éÖÑ8ÕàÓ¡Â1
+9
+java:S1643p"Use a StringBuilder instead.(àğú8ÖàÓ¡Â1
+>
+java:S1643u"Use a StringBuilder instead.(Ä¼Åşÿÿÿÿ8ÖàÓ¡Â1
+9
+java:S1643~"Use a StringBuilder instead.(¦ƒ®¦8ÖàÓ¡Â1
+:
+java:S1643†"Use a StringBuilder instead.(Ï—µÓ8ÖàÓ¡Â1
+:
+java:S1643"Use a StringBuilder instead.(˜Ìõ„8ÖàÓ¡Â1
+?
+java:S1643–"Use a StringBuilder instead.(Ç¹¾“øÿÿÿÿ8ÖàÓ¡Â1
+?
+java:S1643"Use a StringBuilder instead.(”œÅûÿÿÿÿ8ÖàÓ¡Â1
+?
+java:S1643§"Use a StringBuilder instead.(ûÄ«ùÿÿÿÿ8ÖàÓ¡Â1
+:
+java:S1643®"Use a StringBuilder instead.(ÆĞó¬8ÖàÓ¡Â1
+:
+java:S1643±"Use a StringBuilder instead.(¨ä­†8ÖàÓ¡Â1
+:
+java:S1643¶"Use a StringBuilder instead.(§ãî¢8ÖàÓ¡Â1
+9
+java:S1643º"Use a StringBuilder instead.(¿ñü-8ÖàÓ¡Â1
+?
+java:S1643¾"Use a StringBuilder instead.(Õ’õÈûÿÿÿÿ8ÖàÓ¡Â1
+?
+java:S1643Â"Use a StringBuilder instead.(şŸ”³øÿÿÿÿ8ÖàÓ¡Â1
+:
+java:S1643Æ"Use a StringBuilder instead.(³ˆ¹¡8×àÓ¡Â1
+?
+java:S1643Ê"Use a StringBuilder instead.(¶“» üÿÿÿÿ8×àÓ¡Â1
+?
+java:S1643Î"Use a StringBuilder instead.(‹ÑùÊøÿÿÿÿ8×àÓ¡Â1
+?
+java:S1643Ô"Use a StringBuilder instead.(Ì¥‹şÿÿÿÿ8×àÓ¡Â1
+9
+java:S1643Ü"Use a StringBuilder instead.(¦È›8×àÓ¡Â1
+:
+java:S1643à"Use a StringBuilder instead.(äÒ•¬8×àÓ¡Â1
+:
+java:S1643ä"Use a StringBuilder instead.(´ÕÔ8×àÓ¡Â1
+:
+java:S1643è"Use a StringBuilder instead.(ûÓ§°8×àÓ¡Â1
+9
+java:S1643ì"Use a StringBuilder instead.(”æL8×àÓ¡Â1
+?
+java:S1643ğ"Use a StringBuilder instead.(¼ÅÚ«şÿÿÿÿ8×àÓ¡Â1
+:
+java:S1643ô"Use a StringBuilder instead.(Óí½º8×àÓ¡Â1
+?
+java:S1643ø"Use a StringBuilder instead.(úêÉ£ùÿÿÿÿ8×àÓ¡Â1
+?
+java:S1643ü"Use a StringBuilder instead.(¼­’Üøÿÿÿÿ8×àÓ¡Â1
+?
+java:S1643„"Use a StringBuilder instead.(ˆ¢¨Öıÿÿÿÿ8ØàÓ¡Â1
+?
+java:S1643‡"Use a StringBuilder instead.(ˆ¢¨Öıÿÿÿÿ8ØàÓ¡Â1
+:
+java:S1643™"Use a StringBuilder instead.(—‹¶8ØàÓ¡Â1
+o
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(â·¶8ãÓ¡Â1
+=	java:S131I""Add a default case to this switch.(Âúïi8 ãÓ¡Â1
+=	java:S131y""Add a default case to this switch.(Âúïi8¥ãÓ¡Â1
+?
+java:S1116"Remove this empty statement.(À×Ôúÿÿÿÿ8ªãÓ¡Â1
+>	java:S131Ú""Add a default case to this switch.(Âúïi8®ãÓ¡Â1
+h
+java:S1124“"EReorder the modifiers to comply with the Java Language Specification.(®ìØúÿÿÿÿ8±ãÓ¡Â1
+L
+java:S1128"/Remove this unused import 'javax.swing.JLabel'.(ı—àÓ8éƒ×¡Â1
+P
+java:S1128	"3Remove this unused import 'java.text.NumberFormat'.(¿¸»8éƒ×¡Â1
+ä
+java:S65415"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 220 to 64, Complexity from 66 to 14, Nesting Level from 5 to 2, Number of Variables from 12 to 6.(â·¶8·ãÓ¡Â1

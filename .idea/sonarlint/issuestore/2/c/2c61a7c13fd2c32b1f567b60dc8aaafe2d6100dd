@@ -1,0 +1,13 @@
+
+
+java:S1192K"nDefine a constant instead of duplicating this literal "No se pudo realizar la busqueda de los roles." 9 times.(ø†åÁúÿÿÿÿ8…ú‡õÁ1
+m
+java:S2259¸"JA "NullPointerException" could be thrown; "foundProduct" is nullable here.(Œ–Õúüÿÿÿÿ8û‡õÁ1
+o
+java:S2259‹"LA "NullPointerException" could be thrown; "entityManager1" is nullable here.(é‹Òšúÿÿÿÿ8û‡õÁ1
+o
+java:S1128	"MRemove this unused import 'com.realssoft.dulcefrio.api.model.dto.ProductDTO'.(Í®ó¬ıÿÿÿÿ8´Î’õÁ1
+v
+java:S1128"TRemove this unused import 'com.realssoft.dulcefrio.api.persistence.dao.EmployeeDao'.(©‚ş†ùÿÿÿÿ8´Î’õÁ1
+U
+java:S1144T"8Remove this unused private "getProductAndRemove" method.(ªÉŸŠ8”û‡õÁ1

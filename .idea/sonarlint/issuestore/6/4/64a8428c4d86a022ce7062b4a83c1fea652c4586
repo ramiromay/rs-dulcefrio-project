@@ -1,0 +1,7 @@
+
+Q
+java:S1128	"4Remove this unused import 'jakarta.persistence.Lob'.(¾¡úó8Ó»ï¾1
+X
+java:S1128";Remove this unused import 'org.hibernate.annotations.Type'.(ı®™Ê8‚çŠà¾1
+i
+java:S1128"GRemove this unused import 'org.hibernate.annotations.TypeRegistration'.(¡ª°®ùÿÿÿÿ8ƒçŠà¾1

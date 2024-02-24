@@ -1,0 +1,14 @@
+
+m
+java:S1192"KDefine a constant instead of duplicating this literal "dd/MM/yyyy" 5 times.(…Ô••şÿÿÿÿ8¹µ¨Ã1
+Q
+java:S2885"/Make "DATE_OUTPUT_FORMAT" an instance variable.(…Ô••şÿÿÿÿ8Éµ¨Ã1
+P
+java:S2885".Make "DATE_MYSQL_FORMAT" an instance variable.(ö•—Óüÿÿÿÿ8Ëµ¨Ã1
+J
+java:S2885"-Make "DATE_TIME_FORMAT" an instance variable.(×‚¨Š8Ëµ¨Ã1
+G	java:S106f"+Replace this use of System.out by a logger.(ÊÎÃÉ8Õµ¨Ã1
+L	java:S106g"+Replace this use of System.out by a logger.(Ùğóşÿÿÿÿ8Õµ¨Ã1
+L	java:S106u"+Replace this use of System.out by a logger.(öÅèÓûÿÿÿÿ8Öµ¨Ã1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8¨÷«Ã1

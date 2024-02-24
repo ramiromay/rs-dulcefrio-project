@@ -1,0 +1,9 @@
+
+}
+java:S1450*"`Remove the "cmdForgotPassword" field and declare it as a local variable in the relevant methods.(õñ¨Ï8È¿÷·Â1
+N
+java:S1948,",Make "accountDao" transient or serializable.(ÍæÖ¥ùÿÿÿÿ8Ê¿÷·Â1
+T
+java:S2696¾"6Make the enclosing method "static" or remove this set.(†Ô¯8ì¿÷·Â1
+Y
+java:S2696¿"6Make the enclosing method "static" or remove this set.(§Åù™øÿÿÿÿ8ì¿÷·Â1

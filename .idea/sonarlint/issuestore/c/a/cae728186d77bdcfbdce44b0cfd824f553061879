@@ -1,0 +1,56 @@
+
+h	java:S112İ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ªß¥ Ã1
+p
+java:S1192û"SDefine a constant instead of duplicating this literal "Registro Empleado" 14 times.(´ÅG8­ß¥ Ã1
+s
+java:S1450P"WRemove the "calendar" field and declare it as a local variable in the relevant methods.(½™ÿf8Õß¥ Ã1
+~
+java:S1450l"\Remove the "groupActivate" field and declare it as a local variable in the relevant methods.(†ÇŠ¥úÿÿÿÿ8Öß¥ Ã1
+y
+java:S1450f"WRemove the "groupRol" field and declare it as a local variable in the relevant methods.(ó¿„âüÿÿÿÿ8Öß¥ Ã1
+s
+java:S1450`"VRemove the "jrAdmin" field and declare it as a local variable in the relevant methods.(¿™ãã8Öß¥ Ã1
+x
+java:S1450k"[Remove the "jrDeactivate" field and declare it as a local variable in the relevant methods.(±Ğ¨Ø8Öß¥ Ã1
+J
+java:S1948p"-Make "employeeDao" transient or serializable.(Ø½¤÷8×ß¥ Ã1
+K
+java:S1948q")Make "userDao" transient or serializable.(ıµ‚æşÿÿÿÿ8×ß¥ Ã1
+D
+java:S1948t"(Make "action" transient or serializable.(•ı”e8×ß¥ Ã1
+u
+java:S3776é"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Ã¯¬íşÿÿÿÿ8ğß¥ Ã1
+|
+java:S2142Ü"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8öß¥ Ã1
+x
+java:S1128"[Remove this unused import 'com.realssoft.dulcefrio.ui.components.calendar.model.ModelDate'.(èŸ­8÷ß¥ Ã1
+~
+java:S1128"\Remove this unused import 'com.realssoft.dulcefrio.ui.components.calendar.model.ModelMonth'.(êõëÅúÿÿÿÿ8÷ß¥ Ã1
+‹
+java:S1128"iRemove this unused import 'com.realssoft.dulcefrio.ui.components.calendar.utils.CalendarEventCellRender'.(Æšüÿÿÿÿ8÷ß¥ Ã1
+Œ
+java:S1128"jRemove this unused import 'com.realssoft.dulcefrio.ui.components.calendar.utils.CalendarSelectedListener'.(ù­·–üÿÿÿÿ8÷ß¥ Ã1
+^
+java:S1128-"<Remove this unused import 'javax.swing.event.AncestorEvent'.(Ä­‡êıÿÿÿÿ8÷ß¥ Ã1
+\
+java:S1128."?Remove this unused import 'javax.swing.event.AncestorListener'.(øˆ²â8÷ß¥ Ã1
+_
+java:S1128/"=Remove this unused import 'javax.swing.event.PopupMenuEvent'.(’ò›©ùÿÿÿÿ8÷ß¥ Ã1
+b
+java:S11280"@Remove this unused import 'javax.swing.event.PopupMenuListener'.(Œš†•ûÿÿÿÿ8÷ß¥ Ã1
+R
+java:S11284"0Remove this unused import 'java.awt.Graphics2D'.(­¨ú¸üÿÿÿÿ8÷ß¥ Ã1
+Q
+java:S11285"/Remove this unused import 'java.awt.PopupMenu'.(„ÙÑ¢øÿÿÿÿ8÷ß¥ Ã1
+U
+java:S11286"8Remove this unused import 'java.awt.event.FocusAdapter'.(œØ£8÷ß¥ Ã1
+X
+java:S11287"6Remove this unused import 'java.awt.event.FocusEvent'.(“÷ÎËúÿÿÿÿ8÷ß¥ Ã1
+S
+java:S1128:"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ8÷ß¥ Ã1
+X
+java:S1128;"6Remove this unused import 'java.awt.geom.Rectangle2D'.(Å‰Ÿıÿÿÿÿ8÷ß¥ Ã1
+T
+java:S1128<"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8øß¥ Ã1
+ê
+java:S6541é"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 230 to 64, Complexity from 20 to 14, Nesting Level from 3 to 2, Number of Variables from 16 to 6.(Ã¯¬íşÿÿÿÿ8øß¥ Ã1

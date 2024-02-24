@@ -1,0 +1,25 @@
+
+y
+java:S1192."WDefine a constant instead of duplicating this literal "        <div style=\"
+" 3 times.(ÛûéŸıÿÿÿÿ8ÊºåßÃ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸäÙâ8ÌºåßÃ1
+x
+java:S1450"VRemove the "content" field and declare it as a local variable in the relevant methods.(ÃÇÿôøÿÿÿÿ8ÿºåßÃ1
+x
+java:S1450"VRemove the "emailTo" field and declare it as a local variable in the relevant methods.(ÅÆÓûÿÿÿÿÿ8€»åßÃ1
+|
+java:S1450"ZRemove the "mProperties" field and declare it as a local variable in the relevant methods.(şÜ¾¾üÿÿÿÿ8»åßÃ1
+s
+java:S1450"VRemove the "subject" field and declare it as a local variable in the relevant methods.(­¬í8‚»åßÃ1
+T
+java:S6126("2Replace this String concatenation with Text block.(é„Ñõøÿÿÿÿ8ˆ»åßÃ1
+b
+java:S2147n"ECombine this catch with the one at line 108, which has the same body.(–©©8»åßÃ1
+b
+java:S2147}"ECombine this catch with the one at line 123, which has the same body.(–©©8•»åßÃ1
+W
+java:S1128"5Remove this unused import 'javax.mail.Authenticator'.(ÜÃäûùÿÿÿÿ8˜»åßÃ1
+`
+java:S1128">Remove this unused import 'javax.mail.PasswordAuthentication'.(ÎÉ×åùÿÿÿÿ8˜»åßÃ1
+^
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“8˜»åßÃ1

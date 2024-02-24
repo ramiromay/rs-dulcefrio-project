@@ -1,0 +1,29 @@
+
+U
+java:S2387-"3"background" is the name of a field in "Component".(€·Ö‚şÿÿÿÿ8Áÿí§Á1
+y
+java:S21778"WRename this method; there is a "private" method in the parent class with the same name.( öîùÿÿÿÿ8Çÿí§Á1
+^
+java:S3252N"AUse static access with "javax.swing.SwingConstants" for "CENTER".(òÇ€„8Îÿí§Á1
+^
+java:S3252O"AUse static access with "javax.swing.SwingConstants" for "CENTER".(ÀÛÈ›8Îÿí§Á1
+o
+java:S1128"MRemove this unused import 'com.realssoft.dulcefrio.api.model.dto.ProductDTO'.(Í®ó¬ıÿÿÿÿ8Ûÿí§Á1
+M
+java:S1128"0Remove this unused import 'javax.swing.JButton'.(´ÀÃ“8Ûÿí§Á1
+Q
+java:S1128"4Remove this unused import 'javax.swing.JOptionPane'.(÷‰Îé8Ûÿí§Á1
+P
+java:S1128"3Remove this unused import 'javax.swing.JPopupMenu'.(×Îº½8Ûÿí§Á1
+W
+java:S1128":Remove this unused import 'java.awt.event.ActionListener'.(Ìä¹8Ûÿí§Á1
+V
+java:S1128"9Remove this unused import 'java.awt.event.FocusListener'.(¢§¥8Üÿí§Á1
+Q
+java:S1128"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ8Üÿí§Á1
+S
+java:S1128"6Remove this unused import 'java.awt.event.MouseEvent'.(›õ8Üÿí§Á1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Üÿí§Á1
+M
+java:S1068'"0Remove this unused "coincidences" private field.(˜‰–Å8Üÿí§Á1

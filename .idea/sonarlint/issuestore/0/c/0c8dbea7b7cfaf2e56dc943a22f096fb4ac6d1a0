@@ -1,0 +1,37 @@
+
+U
+java:S23871"3"background" is the name of a field in "Component".(€·Ö‚şÿÿÿÿ8¢öİƒÀ1
+y
+java:S2177;"WRename this method; there is a "private" method in the parent class with the same name.( öîùÿÿÿÿ8§öİƒÀ1
+^
+java:S1128"ARemove this unused import 'com.realssoft.dulcefrio.ui.rs.PathRS'.(ÌŒ¢ú8ú¥ú„À1
+M
+java:S1128"0Remove this unused import 'javax.swing.JButton'.(´ÀÃ“8ú¥ú„À1
+Q
+java:S1128"4Remove this unused import 'javax.swing.JOptionPane'.(÷‰Îé8ú¥ú„À1
+K
+java:S1128"/Remove this unused import 'javax.swing.JTable'.(›ğº8ú¥ú„À1
+b
+java:S1128"@Remove this unused import 'javax.swing.table.DefaultTableModel'.(è†åûÿÿÿÿ8ú¥ú„À1
+X
+java:S1128"6Remove this unused import 'java.awt.event.FocusEvent'.(“÷ÎËúÿÿÿÿ8û¥ú„À1
+V
+java:S1128"9Remove this unused import 'java.awt.event.FocusListener'.(¢§¥8û¥ú„À1
+W
+java:S1128"5Remove this unused import 'java.awt.event.ItemEvent'.(¬§„Âÿÿÿÿÿ8û¥ú„À1
+X
+java:S1128"6Remove this unused import 'java.awt.event.KeyAdapter'.(ä’£åşÿÿÿÿ8û¥ú„À1
+Q
+java:S1128"4Remove this unused import 'java.awt.event.KeyEvent'.(¬ğİÍ8û¥ú„À1
+M
+java:S1128 "0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8û¥ú„À1
+M
+java:S1128!"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8û¥ú„À1
+O
+java:S1128""-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8û¥ú„À1
+Q
+java:S1068/"4Remove this unused "backgroundFilter" private field.(ŸÔ³ñ8¡¼û„À1
+Q
+java:S10680"4Remove this unused "backgroundShadow" private field.(¨öÀ8¢¼û„À1
+P
+java:S10681".Remove this unused "background" private field.(€·Ö‚şÿÿÿÿ8Ÿ…À1

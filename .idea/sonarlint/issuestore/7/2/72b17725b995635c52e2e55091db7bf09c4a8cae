@@ -1,0 +1,21 @@
+
+L
+java:S1948`"*Make "products" transient or serializable.(œ—§‚ûÿÿÿÿ8œğªªÂ1
+D
+java:S1948b"(Make "action" transient or serializable.(•ı”e8ğªªÂ1
+S
+java:S1948c"1Make "shoppingCartDao" transient or serializable.(›í€ıÿÿÿÿ8ğªªÂ1
+y
+java:S2177w"WRename this method; there is a "private" method in the parent class with the same name.( öîùÿÿÿÿ8 ğªªÂ1
+M	java:S106×"+Replace this use of System.out by a logger.(Ş´öùÿÿÿÿ8¸ğªªÂ1
+p
+java:S1128"SRemove this unused import 'com.realssoft.dulcefrio.api.persistence.dao.ProductDao'.(ù˜‰Å8™ù•ËÃ1
+y
+java:S1128
+"\Remove this unused import 'com.realssoft.dulcefrio.api.persistence.dao.impl.ProductDaoImpl'.(¬ï•8™ù•ËÃ1
+o
+java:S1128"MRemove this unused import 'com.realssoft.dulcefrio.ui.rs.pattern.Observable'.(Øå©ÿÿÿÿÿ8™ù•ËÃ1
+m
+java:S1128"KRemove this unused import 'com.realssoft.dulcefrio.ui.rs.pattern.Observer'.(ÕÕµıÿÿÿÿ8™ù•ËÃ1
+M
+java:S1128."0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8™ù•ËÃ1

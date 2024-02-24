@@ -1,0 +1,19 @@
+
+3
+java:S2386+"Make this member "protected".(ìØ„œ
+K
+java:S1948(".Make "selectedDate" transient or serializable.(¼·í8Ú¬æ•Ã1
+I
+java:S1948*"'Make "month" transient or serializable.(–ìíªúÿÿÿÿ8Û¬æ•Ã1
+X
+java:S1948,"6Make "calendarCellListener" transient or serializable.(§Î„×ÿÿÿÿÿ8İ¬æ•Ã1
+P
+java:S1948-"3Make "panelDateListener" transient or serializable.(³¼¥8Ş¬æ•Ã1
+@
+java:S1197+"*Move the array designators [] to the type.(ìØ„œ
+m
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(şñÊëÿÿÿÿÿ
+y
+java:S21773"WRename this method; there is a "private" method in the parent class with the same name.(şñÊëÿÿÿÿÿ8÷¬æ•Ã1
+o
+java:S4144?"ZUpdate this method so that its implementation is not identical to "mouseMoved" on line 57.(®—ËF

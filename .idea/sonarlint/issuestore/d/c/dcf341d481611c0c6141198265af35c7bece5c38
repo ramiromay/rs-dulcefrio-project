@@ -1,0 +1,19 @@
+
+M
+java:S1066â"/Merge this if statement with the enclosing one.(°§‡è8…ûıÊÃ1
+‰
+java:S1488Ë"kImmediately return this expression instead of assigning it to the temporary variable "cashRegisterOpening".(Áğ„‹8…ûıÊÃ1
+J
+java:S14817"-Remove this unused "employee" local variable.(ºØ×8 ûıÊÃ1
+[
+java:S11558">Use isEmpty() to check whether the collection is empty or not.(´ÜÕò8¡ûıÊÃ1
+J	java:S108=")Either remove or fill this block of code.(ÉÕƒûûÿÿÿÿ8›Ğ“ËÃ1
+J
+java:S1481E"-Remove this unused "employee" local variable.(ºØ×8¢ûıÊÃ1
+[
+java:S1155F">Use isEmpty() to check whether the collection is empty or not.(´ÜÕò8¢ûıÊÃ1
+J	java:S108K")Either remove or fill this block of code.(ÉÕƒûûÿÿÿÿ8Ø¢Ã1
+e
+java:S1128"CRemove this unused import 'com.realssoft.dulcefrio.ui.rs.StringRS'.(ë‰öğÿÿÿÿÿ8«ûıÊÃ1
+Q
+java:S1128"4Remove this unused import 'javax.swing.JOptionPane'.(÷‰Îé8«ûıÊÃ1
